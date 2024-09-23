@@ -1,5 +1,3 @@
-# horse-racing-project
-
 ## Project setup
 
 ```
